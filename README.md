@@ -1,6 +1,6 @@
-# Hi, I'm Peerzada Rabet 👋 [![](https://visitcount.itsvg.in/api?id=peerzadarabet1807&icon=0&color=0)](https://visitcount.itsvg.in)
+# Hi, I'm Peerzada Mohammad Rabet 👋 [![](https://visitcount.itsvg.in/api?id=peerzadarabet1807&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Data scientist at ZS, working on generative AI.**
+**Data scientist, ML and AI Engineer**
 
 I'm based in Srinagar, Kashmir, and most of what I build outside work applies machine learning to farming and food: adulterated saffron from Pampore, apple scab in Shopian's orchards, disease screening for poultry farms. I also build healthcare AI and local-first LLM tools.
 
